@@ -19,3 +19,7 @@ At each step in time, the following transitions occur:
 - To demonstrate that the program works you can print out the state of the universe to the console/output after each generation. There is no need to build a custom UI.
 - The program must run and work properly (the working program is better than in-progress design). 
 - Use the ‘Glider’ pattern placed in the middle of the 25x25 cell universe for demonstration.
+
+### App Demo
+![Proof 1](./src/test/resources/Screenshot%202024-03-23%20at%2021.06.31.png)
+![Proof 2](./src/test/resources/Screenshot%202024-03-23%20at%2021.40.38.png)
